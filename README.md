@@ -2,4 +2,4 @@
 
 Examples of Console output:
 
-<img src="console_output.PNG">
+<img src="console_output_example.PNG">
